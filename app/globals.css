@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* می‌تونی استایل‌های اختصاصی خودت رو هم اینجا اضافه کنی */
+body {
+  font-family: sans-serif;
+}

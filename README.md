@@ -1,18 +1,16 @@
 # Modern Business Landing Page
 
-A responsive and animated landing page for a fictional business, built with Next.js, Tailwind CSS, and Framer Motion.
+A responsive landing page built with Next.js, Tailwind CSS, and Framer Motion.
 
 ## Features
 
-- Clean and modern UI
-- Fully responsive
-- Smooth animations
+- Hero section with CTA
+- Services grid
+- About section
+- Testimonials
 - Contact form with Formspree
+- Fully responsive design
 - Deployed on Vercel
-
-## Demo
-
-🔗 [Live Preview](https://your-vercel-url.vercel.app)
 
 ## Tech Stack
 
@@ -21,8 +19,9 @@ A responsive and animated landing page for a fictional business, built with Next
 - Framer Motion
 - Formspree
 
----
+## Getting Started
 
-## Screenshots
-
-_Add screenshots here after completion._
+```bash
+npm install
+npm run dev
+```
